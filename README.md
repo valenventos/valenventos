@@ -4,7 +4,7 @@
 
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">&nbsp;***Sobre mi***
 
-Soy estudiante de Ingeniería en Computación, actualmente en mi 4to año. Me estoy expandiendo en el desarrollo tanto front-end como back-end, y investigando sobre desarrollo de IA con Phyton, y en papelo c# y .net. Me apasiona aprender y construir soluciones innovadoras, productivas y creativas.
+Soy estudiante de Ingeniería en Computación, actualmente en mi 4to año. Me estoy expandiendo en el desarrollo tanto front-end como back-end, y investigando sobre desarrollo de IA con Phyton, Planeo aprender c# y .net. Me apasiona aprender y construir soluciones innovadoras, productivas y creativas.
 - 📚 Actualmente aprendiendo
   - ⚡ Next.js
   - 🖥️ React
