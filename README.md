@@ -4,12 +4,12 @@
 
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">&nbsp;***Sobre mi***
 
-Soy estudiante de Ingeniería en Computación, actualmente en mi 5to año. Me estoy expandiendo en el desarrollo tanto front-end como back-end, y investigando sobre pentesting y ciberseguridad. Me apasiona aprender y construir soluciones innovadoras, productivas y creativas.
+Soy estudiante de Ingeniería en Computación, actualmente en mi 5to año. Me estoy expandiendo en el desarrollo seguro y ciberseguridad, investigando sobre pentesting y cloud security. Me apasiona aprender y construir soluciones innovadoras, productivas y creativas.
 - 📚 Actualmente aprendiendo
-  - ⚡ Next.js
+  - ⚡ AWS
   - 🖥️ Pentesting y Cloud security 
-  - 🧠 Deep Learning con Python
-- 🤝 Intereses: Me interesa colaborar en proyectos de código abierto y seguir mejorando mis habilidades en desarrollo web y seguridad.
+  - 🧠 Deep Learning
+- 🤝 Intereses: Me interesa colaborar en proyectos de código abierto y seguir mejorando mis habilidades en desarrollo y seguridad.
 - 📩 Contacto: <a href="valentinventos@gmail.com">valentinventos@gmail.com</a>
 
 ## Mis Aptitudes incluyen
